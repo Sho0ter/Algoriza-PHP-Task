@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-## Mac Os, Ubuntu and windows users continue here:
+## Mac Os, Ubuntu and windows users :
 
 - Create a database locally named algoriza utf8_general_ci
 - Download composer https://getcomposer.org/download/
@@ -74,5 +74,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Run composer install or php composer.phar install
 - Run php artisan key:generate
 - Run php artisan migrate
-- Run php artisan db:seed to run seeders, if any.
+- Run php artisan db:seed to run seeders.
 - Run php artisan serve
